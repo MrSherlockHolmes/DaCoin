@@ -1,5 +1,6 @@
 # DaCoin
 An Experimental New Currency.
 
-1 <img src="https://raw.githubusercontent.com/MrSherlockHolmes/DaCoin/master/DaCoinImg.png" height="25px" width="25px" />
+<span style="font-size: 25px; font-family: Agency FB">1</span>
+<img src="https://raw.githubusercontent.com/MrSherlockHolmes/DaCoin/master/DaCoinImg.png" height="25px" width="25px" />
 
