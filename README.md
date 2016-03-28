@@ -1,2 +1,2 @@
 # DaCoin
-A Revolutionary New Currency
+An Experimental New Currency.
